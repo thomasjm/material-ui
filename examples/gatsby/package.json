@@ -9,7 +9,9 @@
     "prop-types": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-jss": "latest"
+    "react-helmet": "^5.2.0",
+    "react-jss": "latest",
+    "tachyons": "^4.11.1"
   },
   "scripts": {
     "develop": "gatsby develop",
